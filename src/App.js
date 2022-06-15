@@ -1,11 +1,11 @@
-import Person from './components/Person';
+import Person from "./components/Person";
 
 function App() {
-  return (
-    <>
-      <Person name="Sebin" age="25"></Person>
-    </>
-  );
+	return (
+		<>
+			<Person name="Simon" age="36"></Person>
+		</>
+	);
 }
 
 export default App;
