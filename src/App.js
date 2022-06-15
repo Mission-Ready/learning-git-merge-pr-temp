@@ -3,7 +3,7 @@ import Person from './components/Person';
 function App() {
   return (
     <>
-      <Person name="Sebin" age="25"></Person>
+      <Person name="Sellyna" age="26"></Person>
     </>
   );
 }
